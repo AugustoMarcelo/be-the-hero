@@ -14,6 +14,11 @@
 
 - With the tables created, run `yarn start` to boot the server.
 
+## Instructions for running the frontend
+- After cloning the repository, enter the *frontend* folder and run the `yarn` command. It is a package manager that will download the project's dependencies.
+
+- After downloading all the dependencies, run `yarn start` to boot the web application.
+
 ## Screens (WEB)
 > Logon Page
 <img src="./screens/logon.png" alt="Logon Page" />
