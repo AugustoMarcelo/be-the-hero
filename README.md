@@ -16,13 +16,13 @@
 
 ## Screens (WEB)
 > Logon Page
-<a href="./screens/logon.png" alt="Logon Page">
+<img href="./screens/logon.png" alt="Logon Page">
 
 > Register Page
-<a href="./screens/register.png" alt="Register Page">
+<img href="./screens/register.png" alt="Register Page">
 
 > Profile Page (Incidents List)
-<a href="./screens/profile.png" alt="Profile Page">
+<img href="./screens/profile.png" alt="Profile Page">
 
 > New Incident Page
-<a href="./screens/new-incident.png" alt="New Incidente Page">
+<img href="./screens/new-incident.png" alt="New Incidente Page">
