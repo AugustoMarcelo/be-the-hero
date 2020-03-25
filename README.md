@@ -13,3 +13,16 @@
 - After downloading all the dependencies, still inside the *backend* folder, execute the command `yarn ml`. This command is a shortcut to `yarn knex migrate: latest`, which will perform the migrations responsible for creating the tables in the database.
 
 - With the tables created, run `yarn start` to boot the server.
+
+## Screens (WEB)
+> Logon Page
+<a href="./screens/logon.png" alt="Logon Page">
+
+> Register Page
+<a href="./screens/register.png" alt="Register Page">
+
+> Profile Page (Incidents List)
+<a href="./screens/profile.png" alt="Profile Page">
+
+> New Incident Page
+<a href="./screens/new-incident.png" alt="New Incidente Page">
