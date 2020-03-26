@@ -6,6 +6,7 @@
  - express
  - <a href="http://knexjs.org/">knex</a>
  - sqlite3
+ - expo
 
 ## Instructions for running the backend
 - After cloning the repository, enter the *backend* folder and run the `yarn` command. It is a package manager that will download the project's dependencies.
@@ -19,6 +20,15 @@
 
 - After downloading all the dependencies, run `yarn start` to boot the web application.
 
+## Instructions for running mobile app
+- Install the expo as a global dependency on the system. Run the command `npm install -g expo-cli`;
+
+- You will also need to have the expo installed on your device (*you can find it at the Apple Store or Play Store*);
+
+- After cloning the repository, enter the *mobile* folder and run the `yarn` command. It is a package manager that will download the project's dependencies.
+
+- After downloading all the dependencies, run `yarn start` to boot the metro bundler application. Scan the qrcode generated with the expo application and wait for the application to load.
+
 ## Screens (WEB)
 > Logon Page
 <img src="./screens/logon.png" alt="Logon Page" />
@@ -31,3 +41,10 @@
 
 > New Incident Page
 <img src="./screens/new-incident.png" alt="New Incidente Page" />
+
+## Screens (Mobile)
+> Incidents List and Incident Detail Screens
+
+<img height="600" src="./screens/incidents-list.jpg" alt="Incidents List Screen" />
+  
+<img height="600" src="./screens/incident-details.jpg" alt="Incidents Detail Screen" />
