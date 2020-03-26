@@ -44,7 +44,8 @@
 
 ## Screens (Mobile)
 > Incidents List and Incident Detail Screens
-
-<img height="600" src="./screens/incidents-list.jpg" alt="Incidents List Screen" />
-  
-<img height="600" src="./screens/incident-details.jpg" alt="Incidents Detail Screen" />
+<div float="left">
+  <img height="600" src="./screens/incidents-list.jpg" alt="Incidents List Screen" />
+    
+  <img height="600" src="./screens/incident-details.jpg" alt="Incidents Detail Screen" />
+</div>
