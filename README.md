@@ -7,6 +7,8 @@
  - <a href="http://knexjs.org/">knex</a>
  - sqlite3
  - expo
+ - <a href="https://github.com/arb/celebrate">celebrate</a> and <a href="https://hapi.dev/module/joi/">Joi</a> (backend validations)
+ - <a href="https://jestjs.io/docs/en/getting-started">jest</a> and supertest (integration and unit tests)
 
 ## Instructions for running the backend
 - After cloning the repository, enter the *backend* folder and run the `yarn` command. It is a package manager that will download the project's dependencies.
